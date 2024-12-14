@@ -222,7 +222,7 @@ footer .sosmed a img {
     font-size: 62.5%;
   }
   .sub-page {
-    height: 90vh !important;
+    height: 100vh !important;
   }
   .film .container-card {
     display: grid;
@@ -238,10 +238,6 @@ footer .sosmed a img {
   .sub-page .img-wrapper {
     width: 10rem;
     height: 5rem;
-  }
-
-  footer {
-    height: 20vh;
   }
 
   footer h5,
